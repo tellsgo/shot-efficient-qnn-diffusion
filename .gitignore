@@ -1,0 +1,40 @@
+# Generated datasets
+data/*.npz
+data/.cache/
+
+# Generated experiment outputs
+/results/
+/scripts/results/
+/experiments/
+/scripts/experiments/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Editor and notebook metadata
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Runtime logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db

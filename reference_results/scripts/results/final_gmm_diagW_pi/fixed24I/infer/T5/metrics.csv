@@ -1,0 +1,9 @@
+T_infer,rf,mmd2,total_shots
+5,0.7957,0.02096,9070
+
+reverse_step,mean_shots
+1,49.6
+2,95.3
+3,225.8
+4,780.3
+5,7919.4

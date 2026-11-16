@@ -1,0 +1,5 @@
+8-qubit per-dim, fixed 3I readout (0 trainable readout params), VAE-8 latent
+L=12 T_infer=20 eta=1.0
+adaptive : MMD2_latent=0.0063  MMD2_pixel=0.0143  shots=993
+high_shot: MMD2_latent=0.0116  MMD2_pixel=0.0206  shots=1600000
+shot_saving = 1610x

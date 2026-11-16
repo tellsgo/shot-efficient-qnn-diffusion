@@ -1,0 +1,7 @@
+cell,embedding,time,rf_mean,rf_std,mmd2_mean,mmd2_std,total_shots,n_seeds
+amplitude_on,amplitude,on,0.9669,0.0019,0.00305,0.00060,96,5
+amplitude_off,amplitude,off,0.9327,0.0024,0.00618,0.00065,89,5
+probability_on,probability,on,0.9654,0.0031,0.00310,0.00060,93,5
+probability_off,probability,off,0.9191,0.0053,0.00862,0.00119,80,5
+hybrid_on,hybrid,on,0.9727,0.0022,0.00356,0.00082,87,5
+hybrid_off,hybrid,off,0.9191,0.0053,0.00862,0.00119,80,5

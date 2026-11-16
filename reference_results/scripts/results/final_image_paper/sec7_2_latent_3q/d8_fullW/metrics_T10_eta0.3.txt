@@ -1,0 +1,4 @@
+source=vae N=8 qubits=3 readout=fullW dealias_max=6.2832 L=20 T_infer=10 eta=0.3
+adaptive : MMD2_latent=0.0154  MMD2_pixel=0.0274  shots=1122
+high_shot: MMD2_latent=0.0170  MMD2_pixel=0.0288  shots=800000
+shot_saving = 713x

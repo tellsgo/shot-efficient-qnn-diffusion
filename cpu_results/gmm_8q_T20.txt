@@ -1,0 +1,3 @@
+8-qubit fixed-3I (0 trainable readout params), T_infer=20
+adaptive : rf=0.944  MMD2=0.0032  total_shots=991
+high_shot: rf=0.942  MMD2=0.0030  total_shots=1600000

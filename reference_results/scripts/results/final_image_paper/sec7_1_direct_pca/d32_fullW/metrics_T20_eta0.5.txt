@@ -1,0 +1,4 @@
+source=pca N=32 qubits=5 readout=fullW dealias_max=6.2832 L=20 T_infer=20 eta=0.5
+adaptive : MMD2_latent=0.0200  MMD2_pixel=0.0385  shots=1184
+high_shot: MMD2_latent=0.0192  MMD2_pixel=0.0382  shots=1600000
+shot_saving = 1351x
